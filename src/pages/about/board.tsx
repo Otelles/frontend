@@ -12,11 +12,22 @@ export const Board = () => (
       </div>
       <div className={""}>
         <p>
-          Leder Ola Tellesbø kan nås på <Link href="mailto:post@frikanalen.no">post@frikanalen.no</Link>
+          Styreleder Ola Tellesbø, Bevegelsen for sosialisme <Link href="mailto:post@frikanalen.no">post@frikanalen.no</Link>
         </p>
         <p>
-          Teknisk leder Tore Sinding Bekkedal kan nås på{" "}
-          <Link href="mailto:toresbe@protonmail.com">toresbe@protonmail.com</Link>
+          Nestleder Tore Sinding Bekkedal <Link href="mailto:toresbe@protonmail.com">toresbe@protonmail.com</Link>
+        </p>
+        <p>
+          Styremedlem Olav Hardang, Bladet Evangelisten
+        </p>
+        <p>
+          Styremedlem Estehan Zouain, NUUG
+        </p>
+        <p>
+          Styremedlem Rune Hagerup, EMPO
+        </p>        
+        <p>
+          Teknisk leder Tore Sinding Bekkedal kan nås på{" "} <Link href="mailto:toresbe@protonmail.com">toresbe@protonmail.com</Link>     
         </p>
       </div>
     </div>

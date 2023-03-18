@@ -67,11 +67,11 @@ export default function About() {
 
           <div className={"max-w-prose"}>
             <div>
-              I samarbeid med våre medlemsorganisasjoner vil vi styrke norsk samfunnsliv og frivillighet med en ideellt
-              drevet videoplattform av og for medlemmer.
+              I samarbeid med våre medlemsorganisasjoner vil vi styrke norsk samfunnsliv og frivillighet med denne ideellt
+              drevne videoplattformen av og for medlemmer.
             </div>
             <div>
-              Vi tilbyr alle våre medlemmer adgang til en riksdekkende TV-kanal tilgjengelig for alle på nett og
+              Vi tilbyr alle våre medlemmer adgang til å kringkaste eget innhold under eget redaktøransvar på en riksdekkende TV-kanal tilgjengelig for alle på nett og
               kabel-TV.
             </div>
           </div>
